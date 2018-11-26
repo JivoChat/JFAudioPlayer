@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "APAudioPlayerAB"
   s.version      = "0.0.1"
   s.summary      = "Drop-in iOS Audio Player built on top of BASS-library"
-  s.homepage     = "https://github.com/Alterplay/APAudioPlayer"
+  s.homepage     = "https://github.com/abdullah-almalki/APAudioPlayer"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Serg Krivoblotsky" => "sergey@alterplay.com" }
   s.source       = { :git => "https://github.com/Alterplay/APAudioPlayer.git",
