@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "JFAudioPlayer"
-  s.version      = "0.0.2"
+  s.version      = "0.0.6"
   s.summary      = "Drop-in iOS Audio Player built on top of BASS-library"
   s.homepage     = "https://github.com/JivoChat/JFAudioPlayer"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
